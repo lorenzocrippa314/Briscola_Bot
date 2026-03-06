@@ -5,7 +5,6 @@ from bots.random_bot import Random_Bot
 from bots.bot_prendente_min import Bot_Prendente_Min
 from bots.bot_prendente_max import Bot_Prendente_Max
 from bots.bot_prendente_max_e_briscole import Bot_Prendente_Max_E_Briscole
-from bots.bot_barone import Bot_Barone
 
 n=1000
 x=Random_Bot()
